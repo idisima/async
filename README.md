@@ -1,2 +1,2 @@
 # async
-# https://idisima.github.io/async/a
+# https://idisima.github.io/async/async.html
